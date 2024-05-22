@@ -18,6 +18,7 @@ function estadoAlumno(notas){
 }
 
 function cargarNota(){
+  console.log("probando");
   let cantNotas = 0
   let notas = []
   while (cantNotas < 3){
